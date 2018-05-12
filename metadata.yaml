@@ -1,0 +1,30 @@
+_repo: Secrets-of-the-Andes_43268
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43268-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Foster, James H.
+    gutenberg_agent_id: '42097'
+    url: http://www.gutenberg.org/2009/agents/42097
+description: Take a trip to the treacherously beautiful Andes along the coast of South
+  America. These craggy, snow-topped peaks hold allure for explorers -- and hide more
+  than their fair share of deadly secrets. This thrill-a-minute page-turner opens
+  with a cliffhanger and ratchets up the suspense from there. Though simple enough
+  for younger readers to tackle, Secrets of the Andes is suspenseful enough to ensnare
+  readers of all ages.
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Andes -- Juvenile fiction'
+- !lcc 'PZ'
+title: Secrets of the Andes
+url: http://www.gutenberg.org/ebooks/43268
